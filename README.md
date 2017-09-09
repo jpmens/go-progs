@@ -11,3 +11,7 @@ Single binary, dependencies included, ready-to-run, Go programs.
 * Hugo https://gohugo.io
 * Minio https://www.minio.io
 * restic https://restic.github.io
+
+### This says it all
+
+* https://awesome-go.com (/via @42wim)
