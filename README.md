@@ -13,6 +13,7 @@ Single binary, dependencies included, ready-to-run, Go programs.
 * restic https://restic.github.io
 * matterbridge https://github.com/42wim/matterbridge
 * dt (DNS tools to display info about domain) https://github.com/42wim/dt
+* gron https://github.com/TomNomNom/gron
 
 ### This says it all
 
