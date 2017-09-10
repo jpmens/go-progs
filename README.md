@@ -15,6 +15,7 @@ Single binary, dependencies included, ready-to-run, Go programs.
 * dt (DNS tools to display info about domain) https://github.com/42wim/dt
 * gron https://github.com/TomNomNom/gron
 * micro-editor https://micro-editor.github.io/
+* syncthing https://syncthing.net
 
 ### This says it all
 
