@@ -16,6 +16,7 @@ Single binary, dependencies included, ready-to-run, Go programs.
 * gron https://github.com/TomNomNom/gron
 * micro-editor https://micro-editor.github.io/
 * syncthing https://syncthing.net
+* piknik (Copy/paste anything over the network) https://github.com/jedisct1/piknik
 
 ### This says it all
 
