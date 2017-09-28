@@ -17,6 +17,7 @@ Single binary, dependencies included, ready-to-run, Go programs.
 * micro-editor https://micro-editor.github.io/
 * syncthing https://syncthing.net
 * piknik (Copy/paste anything over the network) https://github.com/jedisct1/piknik
+* webhook (create webhook http endpoints and invoke script) https://github.com/adnanh/webhook
 
 ### This says it all
 
